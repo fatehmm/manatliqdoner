@@ -1,0 +1,10 @@
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/bin/Debug/netcoreapp3.1/ClassLibrary.deps.json
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/bin/Debug/netcoreapp3.1/ClassLibrary.dll
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/bin/Debug/netcoreapp3.1/ClassLibrary.pdb
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/obj/Debug/netcoreapp3.1/ClassLibrary.csproj.AssemblyReference.cache
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/obj/Debug/netcoreapp3.1/ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/obj/Debug/netcoreapp3.1/ClassLibrary.AssemblyInfoInputs.cache
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/obj/Debug/netcoreapp3.1/ClassLibrary.AssemblyInfo.cs
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/obj/Debug/netcoreapp3.1/ClassLibrary.csproj.CoreCompileInputs.cache
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/obj/Debug/netcoreapp3.1/ClassLibrary.dll
+/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/obj/Debug/netcoreapp3.1/ClassLibrary.pdb

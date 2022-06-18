@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JHyEghjhnKeSz7NE5EgRC9q+GLCb+q1wDUPyxIqd2uW5Vli2ZT8OuYSh/sxpIC1nI67cuffvpCrhKGg8Gx8xlA==",
+  "success": true,
+  "projectFilePath": "/Users/fatehmmmdli/Projects/ConsoleApp/ClassLibrary/ClassLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/fatehmmmdli/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
